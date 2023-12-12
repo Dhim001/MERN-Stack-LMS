@@ -1,0 +1,19 @@
+{
+  "name": "lms-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhim001/MERN-Stack-LMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhim001/MERN-Stack-LMS/issues"
+  },
+  "homepage": "https://github.com/Dhim001/MERN-Stack-LMS#readme"
+}
